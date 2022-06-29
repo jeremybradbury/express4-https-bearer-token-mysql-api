@@ -30,7 +30,7 @@
     "morgan": "^1.6.1",
     "mysql": "^2.5.5",
     "nodemailer": "^4.0.1",
-    "passport": "^0.2.2",
+    "passport": "^0.6.0",
     "passport-http-bearer": "^1.0.1",
     "rotating-file-stream": "^1.2.2",
     "winston": "^2.3.1",
